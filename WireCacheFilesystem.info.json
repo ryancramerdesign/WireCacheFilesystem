@@ -1,0 +1,9 @@
+{
+  "title": "WireCache: Filesystem",
+  "summary": "Filesystem cache handler for ProcessWire 3.0.218+",
+  "version": 1,
+  "autoload": 100, 
+  "author": "Ryan Cramer",
+  "requires": "ProcessWire>=3.0.218",
+  "icon": "floppy-o"
+}
